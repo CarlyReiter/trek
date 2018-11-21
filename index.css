@@ -1,0 +1,16 @@
+body {
+  background-color: #E4E4E4;
+  text-align: center;
+}
+
+h1  {
+  color: #F1684E;
+  font-size: 3rem;
+}
+
+button {
+  background: indigo;
+  border-radius: 8rem;
+  color: white;
+  font-size: 2rem;
+}
